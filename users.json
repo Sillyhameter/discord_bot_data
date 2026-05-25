@@ -12,7 +12,8 @@
             "last_daily": 1775979011.4616728,
             "inventory": [
                 "Fishing Rod",
-                "Pickaxe"
+                "Pickaxe",
+                "Pickaxe Lvl 1"
             ],
             "last_trivia": 1775985386.4723077,
             "last_fish": 1775985442.1948493,
@@ -25,7 +26,16 @@
             "partner": "1130015134887198790",
             "last_work": 1775985575.2224598,
             "last_crime": 1775985579.5503004,
-            "last_mine": 1775985738.2176323
+            "last_mine": 1775985738.2176323,
+            "xp": 0,
+            "mine_px": 3,
+            "mine_depth": 0,
+            "sack": 0,
+            "durability": 50,
+            "repairing": false,
+            "repair_end": 0,
+            "max_depth": 0,
+            "level": 1
         },
         "1130015134887198790": {
             "coins": 5513,
