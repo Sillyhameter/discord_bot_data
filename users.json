@@ -62,36 +62,36 @@
             "last_work": 1775985582.1432836,
             "last_crime": 1775985589.2218587,
             "last_mine": 1775985865.414073,
-            "xp": 37312,
+            "xp": 64356,
             "mine_px": 0,
             "mine_depth": 4,
-            "sack": 0,
-            "durability": 5,
+            "sack": 76381,
+            "durability": 20,
             "repairing": false,
             "repair_end": 0,
             "max_depth": 4,
             "level": 1,
             "in_cave": true,
-            "cave_type": "special",
+            "cave_type": "normal",
             "cave_grid": [
                 [
                     {
                         "emoji": "🟫",
-                        "hp": 3,
-                        "curr_hp": 3,
-                        "max_hp": 3,
-                        "coins": 2797,
-                        "xp": 1329,
-                        "effect": "small",
+                        "hp": 1,
+                        "curr_hp": 1,
+                        "max_hp": 1,
+                        "coins": 1291,
+                        "xp": 1418,
+                        "effect": "normal",
                         "claimed": false
                     },
                     {
                         "emoji": "🟫",
-                        "hp": 3,
-                        "curr_hp": 3,
-                        "max_hp": 3,
-                        "coins": 3145,
-                        "xp": 2533,
+                        "hp": 2,
+                        "curr_hp": 2,
+                        "max_hp": 2,
+                        "coins": 1614,
+                        "xp": 481,
                         "effect": "small",
                         "claimed": false
                     },
@@ -100,38 +100,38 @@
                         "hp": 2,
                         "curr_hp": 2,
                         "max_hp": 2,
-                        "coins": 3976,
-                        "xp": 2020,
+                        "coins": 959,
+                        "xp": 737,
                         "effect": "normal",
                         "claimed": false
                     },
                     {
                         "emoji": "🟫",
-                        "hp": 3,
-                        "curr_hp": 3,
-                        "max_hp": 3,
-                        "coins": 2332,
-                        "xp": 2400,
-                        "effect": "small",
-                        "claimed": false
-                    },
-                    {
-                        "emoji": "🟫",
-                        "hp": 3,
-                        "curr_hp": 3,
-                        "max_hp": 3,
-                        "coins": 3225,
-                        "xp": 2977,
+                        "hp": 2,
+                        "curr_hp": 2,
+                        "max_hp": 2,
+                        "coins": 1166,
+                        "xp": 615,
                         "effect": "normal",
                         "claimed": false
                     },
                     {
                         "emoji": "🟫",
-                        "hp": 3,
-                        "curr_hp": 3,
-                        "max_hp": 3,
-                        "coins": 2163,
-                        "xp": 1968,
+                        "hp": 1,
+                        "curr_hp": 1,
+                        "max_hp": 1,
+                        "coins": 1680,
+                        "xp": 1405,
+                        "effect": "normal",
+                        "claimed": false
+                    },
+                    {
+                        "emoji": "🟫",
+                        "hp": 2,
+                        "curr_hp": 2,
+                        "max_hp": 2,
+                        "coins": 2029,
+                        "xp": 1990,
                         "effect": "normal",
                         "claimed": false
                     }
@@ -142,22 +142,29 @@
                         "hp": 3,
                         "curr_hp": 3,
                         "max_hp": 3,
-                        "coins": 1303,
-                        "xp": 592,
-                        "effect": "normal",
+                        "coins": 745,
+                        "xp": 1661,
+                        "effect": "small",
                         "claimed": false
-                    },
-                    {
-                        "type": "empty"
                     },
                     {
                         "emoji": "🟫",
                         "hp": 3,
                         "curr_hp": 3,
                         "max_hp": 3,
-                        "coins": 2220,
-                        "xp": 615,
-                        "effect": "small",
+                        "coins": 1870,
+                        "xp": 409,
+                        "effect": "normal",
+                        "claimed": false
+                    },
+                    {
+                        "emoji": "🟫",
+                        "hp": 3,
+                        "curr_hp": 3,
+                        "max_hp": 3,
+                        "coins": 2647,
+                        "xp": 937,
+                        "effect": "normal",
                         "claimed": false
                     },
                     {
@@ -165,18 +172,80 @@
                         "hp": 2,
                         "curr_hp": 2,
                         "max_hp": 2,
-                        "coins": 3535,
-                        "xp": 1144,
+                        "coins": 2789,
+                        "xp": 372,
+                        "effect": "normal",
+                        "claimed": false
+                    },
+                    {
+                        "emoji": "🟫",
+                        "hp": 1,
+                        "curr_hp": 1,
+                        "max_hp": 1,
+                        "coins": 1446,
+                        "xp": 327,
+                        "effect": "normal",
+                        "claimed": false
+                    },
+                    {
+                        "emoji": "🟫",
+                        "hp": 1,
+                        "curr_hp": 1,
+                        "max_hp": 1,
+                        "coins": 778,
+                        "xp": 540,
+                        "effect": "normal",
+                        "claimed": false
+                    }
+                ],
+                [
+                    {
+                        "emoji": "🟫",
+                        "hp": 1,
+                        "curr_hp": 1,
+                        "max_hp": 1,
+                        "coins": 1438,
+                        "xp": 1970,
+                        "effect": "normal",
+                        "claimed": false
+                    },
+                    {
+                        "emoji": "🟫",
+                        "hp": 2,
+                        "curr_hp": 2,
+                        "max_hp": 2,
+                        "coins": 505,
+                        "xp": 1412,
                         "effect": "big",
                         "claimed": false
                     },
                     {
                         "emoji": "🟫",
+                        "hp": 2,
+                        "curr_hp": 2,
+                        "max_hp": 2,
+                        "coins": 1720,
+                        "xp": 1537,
+                        "effect": "normal",
+                        "claimed": false
+                    },
+                    {
+                        "emoji": "🟫",
+                        "hp": 3,
+                        "curr_hp": 3,
+                        "max_hp": 3,
+                        "coins": 2476,
+                        "xp": 504,
+                        "effect": "normal",
+                        "claimed": false
+                    },
+                    {
+                        "emoji": "🟫",
                         "hp": 1,
                         "curr_hp": 1,
                         "max_hp": 1,
-                        "coins": 1458,
-                        "xp": 2895,
+                        "coins": 2391,
+                        "xp": 426,
                         "effect": "small",
                         "claimed": false
                     },
@@ -185,8 +254,70 @@
                         "hp": 3,
                         "curr_hp": 3,
                         "max_hp": 3,
-                        "coins": 1821,
-                        "xp": 1579,
+                        "coins": 1117,
+                        "xp": 702,
+                        "effect": "small",
+                        "claimed": false
+                    }
+                ],
+                [
+                    {
+                        "emoji": "🟫",
+                        "hp": 3,
+                        "curr_hp": 3,
+                        "max_hp": 3,
+                        "coins": 1444,
+                        "xp": 530,
+                        "effect": "normal",
+                        "claimed": false
+                    },
+                    {
+                        "emoji": "🟫",
+                        "hp": 1,
+                        "curr_hp": 1,
+                        "max_hp": 1,
+                        "coins": 2046,
+                        "xp": 883,
+                        "effect": "small",
+                        "claimed": false
+                    },
+                    {
+                        "emoji": "🟫",
+                        "hp": 2,
+                        "curr_hp": 2,
+                        "max_hp": 2,
+                        "coins": 800,
+                        "xp": 729,
+                        "effect": "normal",
+                        "claimed": false
+                    },
+                    {
+                        "emoji": "🟫",
+                        "hp": 1,
+                        "curr_hp": 1,
+                        "max_hp": 1,
+                        "coins": 1945,
+                        "xp": 1226,
+                        "effect": "normal",
+                        "claimed": false
+                    },
+                    {
+                        "emoji": "🟫",
+                        "hp": 1,
+                        "curr_hp": 1,
+                        "max_hp": 1,
+                        "coins": 1630,
+                        "xp": 476,
+                        "effect": "normal",
+                        "claimed": false
+                    },
+                    {
+                        "emoji": "🟫",
+                        "hp": 1,
+                        "curr_hp": 1,
+                        "max_hp": 1,
+                        "coins": 2246,
+                        "xp": 1355,
                         "effect": "normal",
                         "claimed": false
                     }
@@ -197,48 +328,8 @@
                         "hp": 2,
                         "curr_hp": 2,
                         "max_hp": 2,
-                        "coins": 2470,
-                        "xp": 2373,
-                        "effect": "normal",
-                        "claimed": false
-                    },
-                    {
-                        "type": "empty"
-                    },
-                    {
-                        "type": "empty"
-                    },
-                    {
-                        "type": "empty"
-                    },
-                    {
-                        "type": "empty"
-                    },
-                    {
-                        "type": "empty"
-                    }
-                ],
-                [
-                    {
-                        "emoji": "🟫",
-                        "hp": 1,
-                        "curr_hp": 1,
-                        "max_hp": 1,
-                        "coins": 1294,
-                        "xp": 2157,
-                        "effect": "bonus",
-                        "claimed": false
-                    },
-                    {
-                        "type": "empty"
-                    },
-                    {
-                        "emoji": "🟫",
-                        "hp": 3,
-                        "curr_hp": 3,
-                        "max_hp": 3,
-                        "coins": 1137,
-                        "xp": 816,
+                        "coins": 660,
+                        "xp": 379,
                         "effect": "normal",
                         "claimed": false
                     },
@@ -247,73 +338,18 @@
                         "hp": 1,
                         "curr_hp": 1,
                         "max_hp": 1,
-                        "coins": 1654,
-                        "xp": 1102,
+                        "coins": 546,
+                        "xp": 1335,
                         "effect": "normal",
                         "claimed": false
-                    },
-                    {
-                        "emoji": "🟫",
-                        "hp": 3,
-                        "curr_hp": 3,
-                        "max_hp": 3,
-                        "coins": 4464,
-                        "xp": 2749,
-                        "effect": "normal",
-                        "claimed": false
-                    },
-                    {
-                        "type": "empty"
-                    }
-                ],
-                [
-                    {
-                        "emoji": "🟫",
-                        "hp": 1,
-                        "curr_hp": 1,
-                        "max_hp": 1,
-                        "coins": 1014,
-                        "xp": 2617,
-                        "effect": "normal",
-                        "claimed": false
-                    },
-                    {
-                        "type": "empty"
-                    },
-                    {
-                        "type": "empty"
-                    },
-                    {
-                        "type": "empty"
-                    },
-                    {
-                        "type": "empty"
-                    },
-                    {
-                        "type": "empty"
-                    }
-                ],
-                [
-                    {
-                        "emoji": "🟫",
-                        "hp": 3,
-                        "curr_hp": 3,
-                        "max_hp": 3,
-                        "coins": 1150,
-                        "xp": 2266,
-                        "effect": "small",
-                        "claimed": false
-                    },
-                    {
-                        "type": "empty"
                     },
                     {
                         "emoji": "🟫",
                         "hp": 1,
                         "curr_hp": 1,
                         "max_hp": 1,
-                        "coins": 2493,
-                        "xp": 2226,
+                        "coins": 1823,
+                        "xp": 538,
                         "effect": "normal",
                         "claimed": false
                     },
@@ -322,9 +358,41 @@
                         "hp": 2,
                         "curr_hp": 2,
                         "max_hp": 2,
-                        "coins": 1633,
-                        "xp": 1614,
+                        "coins": 1436,
+                        "xp": 612,
+                        "effect": "normal",
+                        "claimed": false
+                    },
+                    {
+                        "emoji": "🟫",
+                        "hp": 2,
+                        "curr_hp": 2,
+                        "max_hp": 2,
+                        "coins": 1233,
+                        "xp": 1133,
                         "effect": "small",
+                        "claimed": false
+                    },
+                    {
+                        "emoji": "🟫",
+                        "hp": 1,
+                        "curr_hp": 1,
+                        "max_hp": 1,
+                        "coins": 817,
+                        "xp": 698,
+                        "effect": "normal",
+                        "claimed": false
+                    }
+                ],
+                [
+                    {
+                        "emoji": "🟫",
+                        "hp": 3,
+                        "curr_hp": 3,
+                        "max_hp": 3,
+                        "coins": 1553,
+                        "xp": 371,
+                        "effect": "normal",
                         "claimed": false
                     },
                     {
@@ -332,6 +400,145 @@
                     },
                     {
                         "type": "empty"
+                    },
+                    {
+                        "type": "empty"
+                    },
+                    {
+                        "type": "empty"
+                    },
+                    {
+                        "type": "empty"
+                    }
+                ],
+                [
+                    {
+                        "emoji": "🟫",
+                        "hp": 3,
+                        "curr_hp": 3,
+                        "max_hp": 3,
+                        "coins": 1017,
+                        "xp": 524,
+                        "effect": "normal",
+                        "claimed": false
+                    },
+                    {
+                        "emoji": "🟫",
+                        "hp": 3,
+                        "curr_hp": 3,
+                        "max_hp": 3,
+                        "coins": 1866,
+                        "xp": 643,
+                        "effect": "normal",
+                        "claimed": false
+                    },
+                    {
+                        "emoji": "🟫",
+                        "hp": 3,
+                        "curr_hp": 3,
+                        "max_hp": 3,
+                        "coins": 541,
+                        "xp": 631,
+                        "effect": "normal",
+                        "claimed": false
+                    },
+                    {
+                        "emoji": "🟫",
+                        "hp": 3,
+                        "curr_hp": 3,
+                        "max_hp": 3,
+                        "coins": 2915,
+                        "xp": 591,
+                        "effect": "normal",
+                        "claimed": false
+                    },
+                    {
+                        "emoji": "🟫",
+                        "hp": 3,
+                        "curr_hp": 3,
+                        "max_hp": 3,
+                        "coins": 1973,
+                        "xp": 1140,
+                        "effect": "normal",
+                        "claimed": false
+                    },
+                    {
+                        "type": "empty"
+                    }
+                ],
+                [
+                    {
+                        "type": "empty"
+                    },
+                    {
+                        "type": "empty"
+                    },
+                    {
+                        "type": "empty"
+                    },
+                    {
+                        "emoji": "🟫",
+                        "hp": 1,
+                        "curr_hp": 1,
+                        "max_hp": 1,
+                        "coins": 1056,
+                        "xp": 600,
+                        "effect": "normal",
+                        "claimed": false
+                    },
+                    {
+                        "type": "empty"
+                    },
+                    {
+                        "type": "empty"
+                    }
+                ],
+                [
+                    {
+                        "type": "empty"
+                    },
+                    {
+                        "emoji": "🟫",
+                        "hp": 3,
+                        "curr_hp": 3,
+                        "max_hp": 3,
+                        "coins": 2697,
+                        "xp": 1221,
+                        "effect": "normal",
+                        "claimed": false
+                    },
+                    {
+                        "emoji": "🟫",
+                        "hp": 3,
+                        "curr_hp": 3,
+                        "max_hp": 3,
+                        "coins": 2769,
+                        "xp": 510,
+                        "effect": "normal",
+                        "claimed": false
+                    },
+                    {
+                        "emoji": "🟫",
+                        "hp": 3,
+                        "curr_hp": 3,
+                        "max_hp": 3,
+                        "coins": 2790,
+                        "xp": 1188,
+                        "effect": "normal",
+                        "claimed": false
+                    },
+                    {
+                        "type": "empty"
+                    },
+                    {
+                        "emoji": "🟫",
+                        "hp": 3,
+                        "curr_hp": 3,
+                        "max_hp": 3,
+                        "coins": 1120,
+                        "xp": 467,
+                        "effect": "normal",
+                        "claimed": false
                     }
                 ],
                 [
@@ -351,186 +558,21 @@
                         "type": "empty"
                     },
                     {
-                        "type": "empty"
-                    }
-                ],
-                [
-                    {
                         "emoji": "🟫",
                         "hp": 1,
                         "curr_hp": 1,
                         "max_hp": 1,
-                        "coins": 1312,
-                        "xp": 2601,
-                        "effect": "normal",
-                        "claimed": false
-                    },
-                    {
-                        "emoji": "🟫",
-                        "hp": 1,
-                        "curr_hp": 1,
-                        "max_hp": 1,
-                        "coins": 3021,
-                        "xp": 1777,
-                        "effect": "small",
-                        "claimed": false
-                    },
-                    {
-                        "emoji": "🟫",
-                        "hp": 1,
-                        "curr_hp": 1,
-                        "max_hp": 1,
-                        "coins": 2493,
-                        "xp": 1915,
-                        "effect": "normal",
-                        "claimed": false
-                    },
-                    {
-                        "emoji": "🟫",
-                        "hp": 1,
-                        "curr_hp": 1,
-                        "max_hp": 1,
-                        "coins": 1812,
-                        "xp": 2619,
-                        "effect": "small",
-                        "claimed": false
-                    },
-                    {
-                        "type": "empty"
-                    },
-                    {
-                        "type": "empty"
-                    }
-                ],
-                [
-                    {
-                        "emoji": "🟫",
-                        "hp": 2,
-                        "curr_hp": 2,
-                        "max_hp": 2,
-                        "coins": 2248,
-                        "xp": 1399,
-                        "effect": "normal",
-                        "claimed": false
-                    },
-                    {
-                        "emoji": "🟫",
-                        "hp": 2,
-                        "curr_hp": 2,
-                        "max_hp": 2,
-                        "coins": 2602,
-                        "xp": 1867,
-                        "effect": "small",
-                        "claimed": false
-                    },
-                    {
-                        "emoji": "🟫",
-                        "hp": 3,
-                        "curr_hp": 3,
-                        "max_hp": 3,
-                        "coins": 1521,
-                        "xp": 1243,
-                        "effect": "normal",
-                        "claimed": false
-                    },
-                    {
-                        "emoji": "🟫",
-                        "hp": 1,
-                        "curr_hp": 1,
-                        "max_hp": 1,
-                        "coins": 1168,
-                        "xp": 2319,
-                        "effect": "small",
-                        "claimed": false
-                    },
-                    {
-                        "emoji": "🟫",
-                        "hp": 2,
-                        "curr_hp": 2,
-                        "max_hp": 2,
-                        "coins": 3061,
-                        "xp": 2587,
-                        "effect": "normal",
-                        "claimed": false
-                    },
-                    {
-                        "emoji": "🟫",
-                        "hp": 1,
-                        "curr_hp": 1,
-                        "max_hp": 1,
-                        "coins": 2070,
-                        "xp": 1963,
-                        "effect": "small",
-                        "claimed": false
-                    }
-                ],
-                [
-                    {
-                        "emoji": "🟫",
-                        "hp": 3,
-                        "curr_hp": 3,
-                        "max_hp": 3,
-                        "coins": 1641,
-                        "xp": 1203,
-                        "effect": "normal",
-                        "claimed": false
-                    },
-                    {
-                        "emoji": "🟫",
-                        "hp": 2,
-                        "curr_hp": 2,
-                        "max_hp": 2,
-                        "coins": 1251,
-                        "xp": 2937,
-                        "effect": "normal",
-                        "claimed": false
-                    },
-                    {
-                        "emoji": "🟫",
-                        "hp": 2,
-                        "curr_hp": 2,
-                        "max_hp": 2,
-                        "coins": 1489,
-                        "xp": 1992,
-                        "effect": "small",
-                        "claimed": false
-                    },
-                    {
-                        "emoji": "🟫",
-                        "hp": 3,
-                        "curr_hp": 3,
-                        "max_hp": 3,
-                        "coins": 4228,
-                        "xp": 2523,
-                        "effect": "small",
-                        "claimed": false
-                    },
-                    {
-                        "emoji": "🟫",
-                        "hp": 1,
-                        "curr_hp": 1,
-                        "max_hp": 1,
-                        "coins": 3955,
-                        "xp": 1575,
-                        "effect": "small",
-                        "claimed": false
-                    },
-                    {
-                        "emoji": "🟫",
-                        "hp": 3,
-                        "curr_hp": 3,
-                        "max_hp": 3,
-                        "coins": 3978,
-                        "xp": 2148,
+                        "coins": 1472,
+                        "xp": 1894,
                         "effect": "small",
                         "claimed": false
                     }
                 ]
             ],
-            "cave_px": 5,
-            "cave_py": 3,
-            "cave_earn": 70263,
-            "cave_broken": 21
+            "cave_px": 2,
+            "cave_py": 7,
+            "cave_earn": 32156,
+            "cave_broken": 18
         }
     },
     "lottery": {
@@ -774,13 +816,12 @@
             "curr_hp": 1
         },
         "0,5": {
-            "emoji": "🕳️",
-            "hp": 1,
+            "emoji": "⬜️",
+            "hp": 0,
+            "curr_hp": 0,
+            "max_hp": 0,
             "coins": 0,
-            "xp": 0,
-            "Cave": true,
-            "max_hp": 1,
-            "curr_hp": 1
+            "xp": 0
         },
         "1,5": {
             "emoji": "🕳️",
