@@ -38,12 +38,12 @@
             "level": 1
         },
         "1130015134887198790": {
-            "coins": 5613,
+            "coins": 0,
             "lang": "zh",
             "stats": {
-                "games_played": 148,
-                "money_wagered": 35575,
-                "money_won": 52826
+                "games_played": 150,
+                "money_wagered": 41388,
+                "money_won": 53026
             },
             "last_earn": 1775985838.9053056,
             "last_daily": 1775979150.989014,
