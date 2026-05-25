@@ -62,11 +62,11 @@
             "last_work": 1775985582.1432836,
             "last_crime": 1775985589.2218587,
             "last_mine": 1775985865.414073,
-            "xp": 64356,
+            "xp": 67285,
             "mine_px": 0,
             "mine_depth": 4,
             "sack": 76381,
-            "durability": 20,
+            "durability": 10,
             "repairing": false,
             "repair_end": 0,
             "max_depth": 4,
@@ -433,14 +433,7 @@
                         "claimed": false
                     },
                     {
-                        "emoji": "🟫",
-                        "hp": 3,
-                        "curr_hp": 3,
-                        "max_hp": 3,
-                        "coins": 541,
-                        "xp": 631,
-                        "effect": "normal",
-                        "claimed": false
+                        "type": "empty"
                     },
                     {
                         "emoji": "🟫",
@@ -477,14 +470,7 @@
                         "type": "empty"
                     },
                     {
-                        "emoji": "🟫",
-                        "hp": 1,
-                        "curr_hp": 1,
-                        "max_hp": 1,
-                        "coins": 1056,
-                        "xp": 600,
-                        "effect": "normal",
-                        "claimed": false
+                        "type": "empty"
                     },
                     {
                         "type": "empty"
@@ -508,24 +494,10 @@
                         "claimed": false
                     },
                     {
-                        "emoji": "🟫",
-                        "hp": 3,
-                        "curr_hp": 3,
-                        "max_hp": 3,
-                        "coins": 2769,
-                        "xp": 510,
-                        "effect": "normal",
-                        "claimed": false
+                        "type": "empty"
                     },
                     {
-                        "emoji": "🟫",
-                        "hp": 3,
-                        "curr_hp": 3,
-                        "max_hp": 3,
-                        "coins": 2790,
-                        "xp": 1188,
-                        "effect": "normal",
-                        "claimed": false
+                        "type": "empty"
                     },
                     {
                         "type": "empty"
@@ -570,9 +542,9 @@
                 ]
             ],
             "cave_px": 2,
-            "cave_py": 7,
-            "cave_earn": 32156,
-            "cave_broken": 18
+            "cave_py": 6,
+            "cave_earn": 39312,
+            "cave_broken": 22
         }
     },
     "lottery": {
