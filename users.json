@@ -38,11 +38,11 @@
             "level": 1
         },
         "1130015134887198790": {
-            "coins": 5613,
+            "coins": 0,
             "lang": "zh",
             "stats": {
-                "games_played": 148,
-                "money_wagered": 35575,
+                "games_played": 149,
+                "money_wagered": 41188,
                 "money_won": 52826
             },
             "last_earn": 1775985838.9053056,
@@ -62,14 +62,14 @@
             "last_work": 1775985582.1432836,
             "last_crime": 1775985589.2218587,
             "last_mine": 1775985865.414073,
-            "xp": 6,
+            "xp": 21,
             "mine_px": 3,
-            "mine_depth": 2,
+            "mine_depth": 7,
             "sack": 0,
-            "durability": 48,
+            "durability": 43,
             "repairing": false,
             "repair_end": 0,
-            "max_depth": 2,
+            "max_depth": 7,
             "level": 1
         }
     },
@@ -239,12 +239,12 @@
             "curr_hp": 1
         },
         "3,3": {
-            "emoji": "🟫",
-            "hp": 1,
+            "emoji": "⬜️",
+            "hp": 0,
+            "curr_hp": 0,
+            "max_hp": 0,
             "coins": 0,
-            "xp": 1,
-            "max_hp": 1,
-            "curr_hp": 1
+            "xp": 0
         },
         "4,3": {
             "emoji": "🟫",
@@ -287,12 +287,12 @@
             "curr_hp": 1
         },
         "3,4": {
-            "emoji": "🟫",
-            "hp": 1,
+            "emoji": "⬜️",
+            "hp": 0,
+            "curr_hp": 0,
+            "max_hp": 0,
             "coins": 0,
-            "xp": 1,
-            "max_hp": 1,
-            "curr_hp": 1
+            "xp": 0
         },
         "4,4": {
             "emoji": "🟫",
@@ -335,12 +335,12 @@
             "curr_hp": 1
         },
         "3,5": {
-            "emoji": "🟫",
-            "hp": 1,
+            "emoji": "⬜️",
+            "hp": 0,
+            "curr_hp": 0,
+            "max_hp": 0,
             "coins": 0,
-            "xp": 1,
-            "max_hp": 1,
-            "curr_hp": 1
+            "xp": 0
         },
         "4,5": {
             "emoji": "🟫",
@@ -383,12 +383,12 @@
             "curr_hp": 1
         },
         "3,6": {
-            "emoji": "🟫",
-            "hp": 1,
+            "emoji": "⬜️",
+            "hp": 0,
+            "curr_hp": 0,
+            "max_hp": 0,
             "coins": 0,
-            "xp": 1,
-            "max_hp": 1,
-            "curr_hp": 1
+            "xp": 0
         },
         "4,6": {
             "emoji": "🟫",
@@ -431,12 +431,12 @@
             "curr_hp": 1
         },
         "3,7": {
-            "emoji": "🟫",
-            "hp": 1,
+            "emoji": "⬜️",
+            "hp": 0,
+            "curr_hp": 0,
+            "max_hp": 0,
             "coins": 0,
-            "xp": 1,
-            "max_hp": 1,
-            "curr_hp": 1
+            "xp": 0
         },
         "4,7": {
             "emoji": "◼️",
