@@ -1,7 +1,7 @@
 {
     "users": {
         "1324386209539166268": {
-            "coins": 633,
+            "coins": 433,
             "lang": "zh",
             "stats": {
                 "games_played": 25,
@@ -38,12 +38,12 @@
             "level": 1
         },
         "1130015134887198790": {
-            "coins": 120129,
+            "coins": 121929,
             "lang": "zh",
             "stats": {
                 "games_played": 150,
                 "money_wagered": 41388,
-                "money_won": 53026
+                "money_won": 55026
             },
             "last_earn": 1775985838.9053056,
             "last_daily": 1775979150.989014,
@@ -62,15 +62,15 @@
             "last_work": 1775985582.1432836,
             "last_crime": 1775985589.2218587,
             "last_mine": 1775985865.414073,
-            "xp": 14160,
+            "xp": 423,
             "mine_px": 1,
             "mine_depth": 6,
             "sack": 102340,
-            "durability": 4,
+            "durability": 0,
             "repairing": false,
             "repair_end": 0,
             "max_depth": 6,
-            "level": 28,
+            "level": 29,
             "in_cave": true,
             "cave_type": "chaos",
             "cave_grid": [
@@ -96,14 +96,7 @@
                 ],
                 [
                     {
-                        "emoji": "🟫",
-                        "hp": 2,
-                        "curr_hp": 2,
-                        "max_hp": 2,
-                        "coins": 2053,
-                        "xp": 738,
-                        "effect": "small",
-                        "claimed": false
+                        "type": "empty"
                     },
                     {
                         "type": "empty"
@@ -132,7 +125,7 @@
                     {
                         "emoji": "🟫",
                         "hp": 3,
-                        "curr_hp": 3,
+                        "curr_hp": 1,
                         "max_hp": 3,
                         "coins": 736,
                         "xp": 1728,
@@ -521,9 +514,9 @@
                 ]
             ],
             "cave_px": 0,
-            "cave_py": 0,
-            "cave_earn": 41512,
-            "cave_broken": 22
+            "cave_py": 1,
+            "cave_earn": 43565,
+            "cave_broken": 23
         }
     },
     "lottery": {
