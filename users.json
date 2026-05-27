@@ -38,7 +38,7 @@
             "level": 1
         },
         "1130015134887198790": {
-            "coins": 122936,
+            "coins": 225276,
             "lang": "zh",
             "stats": {
                 "games_played": 150,
@@ -65,7 +65,7 @@
             "xp": 423,
             "mine_px": 1,
             "mine_depth": 6,
-            "sack": 102340,
+            "sack": 0,
             "durability": 0,
             "repairing": false,
             "repair_end": 0,
