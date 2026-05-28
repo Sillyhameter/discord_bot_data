@@ -88,8 +88,8 @@
             "mine_depth": 8,
             "sack": 50,
             "durability": 26,
-            "repairing": true,
-            "repair_end": 1779961271.4186823,
+            "repairing": false,
+            "repair_end": 0,
             "inventory": [
                 "Pickaxe Lvl 1"
             ],
