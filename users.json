@@ -82,7 +82,7 @@
             "cave_broken": 23
         },
         "1254741204445302858": {
-            "coins": 100500,
+            "coins": 100000,
             "xp": 28,
             "mine_px": 5,
             "mine_depth": 8,
@@ -91,7 +91,8 @@
             "repairing": false,
             "repair_end": 0,
             "inventory": [
-                "Pickaxe Lvl 1"
+                "Pickaxe Lvl 1",
+                "Fishing Rod"
             ],
             "max_depth": 8,
             "level": 1
