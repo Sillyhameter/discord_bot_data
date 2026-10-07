@@ -96,6 +96,22 @@
             ],
             "max_depth": 17,
             "level": 1
+        },
+        "1557249371505168445": {
+            "coins": 995,
+            "xp": 0,
+            "mine_px": 3,
+            "mine_depth": 0,
+            "sack": 0,
+            "durability": 50,
+            "repairing": false,
+            "repair_end": 0,
+            "inventory": [
+                "Pickaxe Lvl 1"
+            ],
+            "max_depth": 0,
+            "level": 1,
+            "lang": "zh"
         }
     },
     "lottery": {
